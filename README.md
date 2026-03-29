@@ -487,4 +487,7 @@ function SimpleForm() {
 ```
 
 <!-- Pending work -->
-1. Toolbar component -> isActive issue, bg color is not changing after toggling
+1. Toolbar component -> isActive issue, bg color is not changing after toggling.
+2. Update method in Blog post
+3. Overall Styling for all Blog post & App
+4. Loading preview when publishing post
