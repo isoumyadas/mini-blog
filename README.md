@@ -486,3 +486,5 @@ function SimpleForm() {
 
 ```
 
+<!-- Pending work -->
+1. Toolbar component -> isActive issue, bg color is not changing after toggling

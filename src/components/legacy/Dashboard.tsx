@@ -1,7 +1,7 @@
 import Card from "./Card";
 // import logo from "../assets/hero.png"
 import { useEffect, useState } from "react";
-import type { Post } from "../types";
+import type { Post } from "../../types";
 import FormCard from "./FormCard";
 // import Count from "./Count";
 
